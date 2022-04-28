@@ -8014,9 +8014,9 @@ m=new A.jE(new A.UI(new A.a_C(m,l,new A.UZ()),s),r,q,p,o,n,null,B.lE)
 m.QP(B.lE,t.mw)
 m.R1()
 return m},
-auX(a){switch(a.a){case 1:return"http://sentanaly.azurewebsites.net/api/sentimentsrussia"
-case 0:return"http://sentanaly.azurewebsites.net/api/sentimentsoverall"
-case 2:return"http://sentanaly.azurewebsites.net/api/sentimentsukraine"}},
+auX(a){switch(a.a){case 1:return"https://sentanaly.azurewebsites.net/api/sentimentsrussia"
+case 0:return"https://sentanaly.azurewebsites.net/api/sentimentsoverall"
+case 2:return"https://sentanaly.azurewebsites.net/api/sentimentsukraine"}},
 auY(a){switch(a.a){case 1:return"Sentiment against Russia per country over time"
 case 0:return"Overall sentiment per country over time"
 case 2:return"Sentiment against Ukraine per country over time"}},
